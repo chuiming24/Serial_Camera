@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\串口摄像头阀值调整\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Administrator\Desktop\串口摄像头阀值调整\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Administrator\Desktop\串口摄像头阀值调整\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb

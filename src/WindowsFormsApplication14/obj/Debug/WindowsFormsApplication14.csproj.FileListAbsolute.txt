@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+c:\users\administrator\documents\visual studio 2013\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+C:\Users\Administrator\Desktop\串口摄像头阀值调整\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Administrator\Desktop\串口摄像头阀值调整\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Administrator\Desktop\串口摄像头阀值调整\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
